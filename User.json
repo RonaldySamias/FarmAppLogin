@@ -1,4 +1,4 @@
-[
-  { "username": "usuario1", "password": "senha123" },
-  { "username": "usuario2", "password": "senha456", }  // Vírgula extra no final
-]
+{
+  "username": "usuario1",
+  "password": "senha123"
+}
